@@ -9,10 +9,10 @@ ________________________________________________________________________________
 # PROJECTS  
 # Academic Projects
 # Year 1
-SC1003- 
-sc1007 - 
-Sc1008 - 
-Sc2002 - https://github.com/Lakshita200/oopd-proj
+* SC1003- 
+* sc1007 - 
+* Sc1008 - 
+* Sc2002 - https://github.com/Lakshita200/oopd-proj
 # Year 2
 * Sc2006 - https://github.com/Lakshita200/SpendWise
 * Sc2008 - https://github.com/Lakshita200/Sc2008
